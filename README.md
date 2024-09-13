@@ -144,21 +144,8 @@ x_single_prediction = np.argmax(
 
 print(x_single_prediction)
      
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
-Include your code here
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
@@ -170,18 +157,18 @@ Include your code here
 
 ![image](https://github.com/user-attachments/assets/febfbbe1-6b15-4636-9425-416523af5927)
 
-### Classification Report
+
 ![image](https://github.com/user-attachments/assets/ea880326-9ef0-47dc-8bfb-479fde6d079e)
 
-### Confusion Matrix
+### Classification Report
 
 ![image](https://github.com/user-attachments/assets/d3848de1-1f03-4f2e-9b6a-8e881f0e211a)
 
-### New Sample Data Prediction
+### Confusion Matrix
 
 ![image](https://github.com/user-attachments/assets/7eb52761-de44-4423-bf98-37def17ffac3)
 
-
+### New Sample Data Prediction
 ![image](https://github.com/user-attachments/assets/2838defd-b7a7-4e85-98e0-1ee81674ec1e)
 
 
